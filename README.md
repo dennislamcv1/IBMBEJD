@@ -10,3 +10,5 @@ When you complete this program, you’ll develop expertise with the range of bac
 Technologies covered include HTML, CSS, JavaScript, Node.js, Express, Git and GitHub, SQL and NoSQL databases, containers with Docker, Kubernetes, Microservices, and Serverless. Upon completing the full program, you will have built a portfolio of projects to provide you with the confidence to excel in your interviews. You’ll receive a Professional Certificate and badge from IBM to showcase your proficiency to potential employers.
 
 In the final course, you will learn inside tips and steps to perform professionally and effectively at interviews and unlock exclusive access to career support resources to help you in your job search.
+
+### Note: Intermediate Back-end Development with Node changed to Node.js & MongoDB: Developing Back-end Database Applications

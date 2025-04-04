@@ -1,5 +1,5 @@
 # IBMBEJD
-## IBM Back-end JavaScript Developer Professional Certificate
+## IBM Back-end JavaScript Developer Professional Certificate (11 course series)
 
 Prepare for a career in the high-growth field of backend development. In this program, you’ll develop skills needed for an entry-level, backend JavaScript developer in as little as 4 - 6 months. No prior degree or software engineering experience is required.
 
